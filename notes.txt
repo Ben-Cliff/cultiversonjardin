@@ -1,0 +1,8 @@
+Fast Geospatial Indexing with H3
+(carto) https://carto.com/bigquery-tiler/ ; https://docs.carto.com/spatial-extension-bq/overview/getting-started/
+(py notebook) https://github.com/uber/h3-py-notebooks/blob/master/notebooks/urban_analytics.ipynb
+(Uber) https://h3geo.org/docs/community/bindings/
+(medium) :https://towardsdatascience.com/fast-geospatial-indexing-with-h3-90e862482585
+
+Consuming Data from Google Cloud Big Query:
+https://www.telerik.com/kendo-react-ui/components/cloud/google-big-query/
