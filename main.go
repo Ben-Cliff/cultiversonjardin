@@ -12,7 +12,7 @@ func main() {
 	app.Listen(":8000")
 }
 
-
+FIX BRANCH: https://stackoverflow.com/questions/32056324/there-is-no-tracking-information-for-the-current-branch
 
 
 // setup tutorial https://youtu.be/d4Y2DkKbxM0?t=199
